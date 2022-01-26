@@ -1,0 +1,12 @@
+Open source H/W development
+PLC (Programmable logic controller) 
+STM 32 - ARM 32 bit controller 
+ARM single core -> multicore -> (multi stage boot processing?) -> integrate with real time OS -> design and dev of device drivers
+Industrial applications - GPIU, UART drivers, developing small library routines (test with STM devices)
+To-Do- 
+Revise C 
+bitwise, unions, fxn prototypes 
+learn how to read datasheets 
+
+Edit- 
+STM32F407 pin structure, datasheet - go through
