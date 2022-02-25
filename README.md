@@ -1,5 +1,7 @@
 # COSH-PLC-Project
-Atoliic TrueStudio, STL Linker, STM32F407 Discovery Kit 
+Atoliic TrueStudio, STL Linker, STM32F407 Discovery Kit <br>
+Project installation files - https://drive.google.com/drive/folders/1Qda3X5TBNdP7TIRw4iMCDkEmkc2ffdsa?usp=sharing 
+
 
 <b>25.1.22</b> <br>
 Open source H/W development<br>
