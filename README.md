@@ -39,3 +39,9 @@ Online and background- cycle repeats automatically <br>
 Offline class will work without timer by suspending for 1 sec. Similarly for periodic.   <br>
 Note : this is not freeRTOS <br>
 Edit -  read up on rtos scheduling <br>
+
+<b>1.3.22</b> <br>
+task to be done - write a timer function. 
+Go through the datasheet and understand timers. Timer #2. 
+Implement for periodic functions.
+
