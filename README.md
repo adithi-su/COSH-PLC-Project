@@ -9,7 +9,7 @@ PLC (Programmable logic controller) <br>
 STM 32 - ARM 32 bit controller <br>
 ARM single core -> multicore -> (multi stage boot processing?) -> integrate with real time OS -> design and dev of device drivers<br>
 Industrial applications - GPIU, UART drivers, developing small library routines (test with STM devices)<br>
-To-Do- <br>
+To-Do: <br>
 Revise C <br>
 bitwise, unions, fxn prototypes <br>
 learn how to read datasheets <br>
@@ -41,7 +41,7 @@ Note : this is not freeRTOS <br>
 Edit -  read up on rtos scheduling <br>
 
 <b>1.3.22</b> <br>
-task to be done - write a timer function. 
-Go through the datasheet and understand timers. Timer #2. 
-Implement for periodic functions.
+task to be done - write a timer function. <br>
+Go through the datasheet and understand timers. Timer #2. <br>
+Implement for periodic functions.<br>
 
