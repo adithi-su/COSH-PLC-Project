@@ -46,3 +46,19 @@ task to be done - write a timer function. <br>
 Go through the datasheet and understand timers. Timer #2. <br>
 Implement for periodic functions.<br>
 
+write UART driver ( printf statements) <br>
+learn how to make GPIO connections to RS232 serial cable <br>
+HAL interface <br>
+GPIO based drivers 
+
+<b>25.4.22</b> <br>
+Tera Term setup - <br>
+Receive tab - Auto <br>
+Transmit tab - CR + LF <br>
+rest - default <br>
+need to write IRQ interrupts (GPIO based) <br>
+whenever the pin is high/low, interrupt s/w is needed <br>
+interrupts - asynchronous time<br>
+periodic task - configure period and print <br>
+IRQ - only for offline tasks <br>
+
