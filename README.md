@@ -44,7 +44,20 @@ suspend works, millisec delay doesn't. why??
 <b>1.3.22</b> <br>
 task to be done - write a timer function. <br>
 Go through the datasheet and understand timers. Timer #2. <br>
-Implement for periodic functions.<br>
+Implement for periodic functions.
+
+<b>Online: </b><br>
+T1 Blue LED ON <br>
+T2 Red LED ON <br>
+T3 Green LED ON <br>
+T4 Yellow LED ON <br>
+<b>Offline:</b> T5 Blue LED OFF <br>
+<b>PRDC: </b>T6 Red LED OFF <br>
+<b>BGND: </b>T7 all LEDs OFF <br>
+Assignments: 
+1. Test all the task functions 
+2. Learn how timer software is coded
+3. Start UART concept in STM32 
 
 write UART driver ( printf statements) <br>
 learn how to make GPIO connections to RS232 serial cable <br>
